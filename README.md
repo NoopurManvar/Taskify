@@ -1,3 +1,12 @@
+💡 **Key Features:**
+- ✅ Add, edit, and delete personal tasks
+- 🗃️ Completed tasks are moved to Trash (with restore/permanent delete options)
+- 📊 Task dashboard with graphs and stats
+- 👥 Create and manage teams
+- 🔄 Assign tasks to team members (UI-level)
+- 💻 Responsive design for mobile and desktop
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
